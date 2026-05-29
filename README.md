@@ -5,7 +5,7 @@ This repository contains the implementation of **FDLF**, a frequency decompositi
 ## Repository Structure
 
 ```text
-FANR/
+FDLF/
 ├── INR.py
 ├── OURS.py
 ├── utils.py

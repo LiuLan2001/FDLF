@@ -1,6 +1,6 @@
-# FANR
+# FDLF
 
-This repository contains the implementation of **FANR**, a frequency decomposition INR framework for scientific volume data representation.
+This repository contains the implementation of **FDLF**, a frequency decomposition INR framework for scientific volume data representation.
 
 ## Repository Structure
 
